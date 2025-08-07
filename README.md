@@ -1,6 +1,6 @@
 # 🎅 Challenge Amigo Secreto
 
-![Badge](https://img.shields.io/badge/Desafio-ONE-Alura-brightgreen)
+![Badge](https://img.shields.io/badge/Desafio--ONE--Alura-brightgreen)
 
 ## 📋 Descrição
 
