@@ -46,6 +46,9 @@ Para rodar o projeto localmente:
    ```bash
    git clone https://github.com/Bressan88/Challenge-Amigo_secreto.git
    ```
+2. Abra o arquivo `index.html` em qualquer navegador moderno (Chrome, Firefox, Edge, etc).
+
+3. Pronto! O projeto estará funcionando localmente.
 ---
 
 👤 Autor
