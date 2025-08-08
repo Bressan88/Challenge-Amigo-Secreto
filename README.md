@@ -38,14 +38,6 @@ Segue uma demonstração de seu funcionamento.
 
 ---
 
-## 💡 Funcionalidades
-
-- ➕ Adição de participantes
-- 🔄 Sorteio aleatório
-- 👀 Exibição dinâmica dos resultados
-
----
-
 ## 📦 Instalação e Uso
 
 Para rodar o projeto localmente:
