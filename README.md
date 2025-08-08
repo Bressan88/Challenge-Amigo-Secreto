@@ -30,6 +30,15 @@ Segue uma demonstração de seu funcionamento.
 
 ---
 
+## ⚠️ Atenção
+
+Se tentar realizar o sorteio ou adicionar um nome sem preencher os campos, será exibida uma mensagem de alerta:
+
+![Alerta de campos vazios](https://github.com/Bressan88/Challenge-Amigo-Secreto/issues/2#issue-3302457497)
+![Alerta ao tentar sortear sem nomes](./assets/alerta2.png](https://github.com/Bressan88/Challenge-Amigo-Secreto/issues/3#issue-3302459677)
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) **HTML5**
